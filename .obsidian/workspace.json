@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9671a37d8f84b7eb",
+        "id": "36c17c8f4070d926",
         "type": "tabs",
         "children": [
           {
-            "id": "e597839cd81ee622",
+            "id": "16dc1f23d00aa782",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,10 +179,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "2265884f4a41765e",
+  "active": "16dc1f23d00aa782",
   "lastOpenFiles": [
-    "Slides.md",
+    "Climate_Change__Science_&_Impact.mp4",
+    "Important Links.md",
     "Script-Content.md",
+    "Science_and_Impact.mp4",
+    "().md",
+    "Guidelines for an Effective Group Presentation.pdf",
+    "Slides.md",
     "AI Slop/Slide Descriptions.md",
     "AI Slop/Script.md",
     "AI Slop",
