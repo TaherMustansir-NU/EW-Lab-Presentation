@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Links.md",
+                "file": "Script-Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Important Links"
+              "title": "Script-Content"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "16dc1f23d00aa782",
   "lastOpenFiles": [
-    "Climate_Change__Science_&_Impact.mp4",
     "Important Links.md",
+    "Climate_Change__Science_&_Impact.mp4",
     "Script-Content.md",
     "Science_and_Impact.mp4",
     "().md",
