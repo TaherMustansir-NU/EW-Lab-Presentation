@@ -10,3 +10,6 @@
 
 ### ChatGPT (conversation)
 [PPT Slide Descriptions](https://chatgpt.com/share/69a71e24-bd24-8003-93e5-328a107094c7)
+
+### Google Drive (AI Video)
+[Short AI Video (Drive)](https://drive.google.com/file/d/1jP8Il5phUZs7wMhg9Juc6zWix0Wlnp-Y/view?usp=sharing)
